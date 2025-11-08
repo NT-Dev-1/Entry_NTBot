@@ -1,5 +1,8 @@
 Verification‑Bot
 ———| Made By NT_Dev | For Private Use Only |
+
+---
+
 A Telegram verification bot designed for private communities. Built to run on Termux, VPS or any Python 3.10+ runtime. Core features: emoji CAPTCHA, one‑time invite links, admin escalation UI, invite audit and revoke, persistent SQLite storage, and background tasks for cleanup and health checks.
 
 ---
