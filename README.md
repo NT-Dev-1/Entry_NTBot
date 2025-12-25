@@ -1,5 +1,5 @@
-Verification‑Bot
-———| Made By NT_Dev | For Private Use Only |
+entry system for northnet community.
+———| Made By NorthNet_Dev | For Private Use Only |
 
 ---
 
